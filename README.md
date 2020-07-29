@@ -1,11 +1,12 @@
+## 1. Concetti e principi “open”
 
 ### Di che cosa si tratta?
 
- - Della creazione di un libro aperto
+Della creazione di un libro aperto
  
  ### Cosa riguarda?
 
-Il libro aperto permette a chiunque di collaborare e dare il proprio contributo, avendo a propria disposizione, in maniera aperta, il programma da svolgere.
+Il libro aperto permette a chiunque di collaborare e dare il proprio contributo, avendo a propria disposizione, in maniera aperta, il programma da svolgere.</p>
 Il libro aperto è un modo di studiare alternativo.
  
 ### Cosa posso fare?
