@@ -10,4 +10,4 @@ Il libro aperto permette a chiunque di collaborare e dare il proprio contributo,
 Il libro aperto è un modo di studiare alternativo.
  
 ### Cosa posso fare?
- - Iniziare questa avventura.
+ - Iniziare questa avventura, clicca e modifica.
