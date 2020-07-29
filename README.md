@@ -1,4 +1,4 @@
-## 1. Concetti e principi “open”
+## Il LIBRO APERTO DI INFORMATICA
 
 ### Di che cosa si tratta?
 
