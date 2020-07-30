@@ -11,6 +11,7 @@ Il libro aperto è un modo di studiare alternativo.
  
 ### Cosa posso fare?
  - Iniziare questa avventura, clicca e modifica.
+
  
 ### Quali sono gli argomenti?
 Dal problema al programma
@@ -66,3 +67,8 @@ La trasformazione digitale e gli aspetti normativi: cittadini, imprese, pubblica
 Protezione dati personali, Privacy e sicurezza
 E-Governance e Amministrazione Digitale
 Gestione documentale e conservazione dei documenti digitali
+=======
+
+### Quale è il programma?
+ - Aiutami a ricopiare i punti del bando
+
