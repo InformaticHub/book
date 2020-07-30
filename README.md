@@ -14,7 +14,7 @@ Il libro aperto è un modo di studiare alternativo.
 
  
 ### Quali sono gli argomenti?
-Dal problema al programma
+ - Dal problema al programma
 Soluzione dei problemi: processi euristici e processi algoritmici. Tecniche di rappresentazione degli algoritmi: flow chart, pseudocodice. Proprietà degli algoritmi: la programmazione strutturata, complessità. 
 Algoritmi notevoli: (es. ordinamento, ricerca, fusione).
 Linguaggi formali: sintassi e semantica.
