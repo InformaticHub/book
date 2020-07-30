@@ -11,3 +11,6 @@ Il libro aperto è un modo di studiare alternativo.
  
 ### Cosa posso fare?
  - Iniziare questa avventura, clicca e modifica.
+
+### Quale è il programma?
+ - Aiutami a ricopiare i punti del bando
