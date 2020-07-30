@@ -12,6 +12,8 @@ Il libro aperto è un modo di studiare alternativo.
 ### Cosa posso fare?
  - Iniziare questa avventura, clicca e modifica.
 
+### In pratica?
+ - Aiutami a sistemare i punti del bando
  
 ### Quali sono gli argomenti?
  - Dal problema al programma
@@ -70,5 +72,5 @@ Gestione documentale e conservazione dei documenti digitali
 =======
 
 ### Quale è il programma?
- - Aiutami a ricopiare i punti del bando
+ - Aiutami a sistemare i punti del bando
 
