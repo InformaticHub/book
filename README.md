@@ -71,6 +71,6 @@ E-Governance e Amministrazione Digitale
 Gestione documentale e conservazione dei documenti digitali
 =======
 
-### Quale è il programma?
- - Aiutami a sistemare i punti del bando
+### Quale è il programma operativo?
+ - creare un manuale collaborativo
 
